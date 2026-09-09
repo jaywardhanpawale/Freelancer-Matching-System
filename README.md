@@ -219,6 +219,4 @@ generate_project_matches
 * Admin dashboard
 * Improved profile management
 
-## Author
 
-Developed as a **DBMS and Backend Integration Project** to demonstrate practical database concepts, REST API development, and automated freelancer matching.
